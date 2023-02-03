@@ -1,0 +1,6 @@
+#ignore all of the following files
+*.png
+*.csv
+*.pdf
+*.docx
+*.h5
